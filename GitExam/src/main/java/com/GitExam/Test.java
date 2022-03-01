@@ -11,7 +11,7 @@ public class Test {
 	@GetMapping("/")
 	String helloworld()
 	{
-		String str="This is Main";
+		String str="This is feature 2";
 		return str;
 	}
 	
